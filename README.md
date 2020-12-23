@@ -122,9 +122,7 @@ You should find TRAL.RANDOMNESS meaningfully documented by code comments.
 
 For more information: https://kuiper.zone/csharp-randomness/
 
-Please credit: https://kuiper.zone/
-
-Andy Thomas
+Please credit: Andy Thomas / https://kuiper.zone
 
 
 # NOTICE
