@@ -1,9 +1,6 @@
-﻿# TRAL RANDOMNESS
-
-## DESCRIPTION
-TRAL RANDOMNESS is a random number class library for C#. It provides common algorithm implementations and
-an extended set of random number generation routines which can be used with any algorithm. Implementations
-are high performance and have been tested against known vectors.
+﻿# TRAL.RANDOMNESS
+TRAL.RANDOMNESS is a random number class library for C#. It provides common algorithm implementations and
+an extended set of random number generation routines which can be used with any algorithm.
 
 Target Framework: .NET Standard 2.1
 
@@ -121,7 +118,7 @@ used with RandomGenerator<TAlgo> which provides the extended routines. See Split
 for straightforward implementation examples.
 
 ## More Information
-You should find TRAL RANDOMNESS meaningfully documented by code comments.
+You should find TRAL.RANDOMNESS meaningfully documented by code comments.
 
 For more information: https://kuiper.zone/csharp-randomness/
 
