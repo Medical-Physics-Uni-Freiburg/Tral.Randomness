@@ -1,13 +1,15 @@
 ﻿# TRAL.RANDOMNESS
 TRAL.RANDOMNESS is a random number class library for C#. It provides common algorithm implementations and
-an extended set of random number generation routines which can be used with any algorithm.
+an extended set of random number routines which can be used with any algorithm.
 
 Target Framework: .NET Standard 2.1
 
-There are no other dependencies.
+There are no dependencies.
+
+Project Page: https://kuiper.zone/tral-randomness-csharp-prng/
 
 ## QUICK START
-Install the NuGet Release or download and build the source.
+Install the NuGet Release or download and build the source. Also available from NuGet.
 
 ### Basic Routines
 Here, we create a default generator and demonstrate a selection of routines:
@@ -120,7 +122,7 @@ for straightforward implementation examples.
 ## More Information
 You should find TRAL.RANDOMNESS meaningfully documented by code comments.
 
-For more information: https://kuiper.zone/csharp-randomness/
+Project Page: https://kuiper.zone/tral-randomness-csharp-prng/
 
 Andy Thomas / https://kuiper.zone
 
