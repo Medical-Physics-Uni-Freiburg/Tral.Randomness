@@ -129,7 +129,6 @@ Please credit: https://kuiper.zone/
 
 Andy Thomas
 
-Image credit: "Armando are"
 
 # NOTICE
 
